@@ -14,7 +14,7 @@
 
 <div>
 <a href="https://github.com/isatutumi">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?isatutumi&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isatutumi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
